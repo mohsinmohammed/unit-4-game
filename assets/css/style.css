@@ -1,0 +1,20 @@
+
+html{
+    background-color: #2c2a2e;
+}
+
+h1{
+    font-size: 35px;
+}
+h2{
+    font-size: 25px;
+    text-align: center;
+}
+h3{
+    text-align: center;
+    background-color: #dac78c;
+}
+.crystal-images {
+    width: 300px;
+    height: 300px;
+  }
